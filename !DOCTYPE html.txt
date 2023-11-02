@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jouw Naam - Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Jouw Naam</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">Over mij</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>Over mij</h2>
+        <p>Plaats hier een korte introductie over jezelf.</p>
+    </section>
+
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <!-- Voeg hier informatie en voorbeelden van je werk toe -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Je contactgegevens en contactformulier kunnen hier worden toegevoegd.</p>
+    </section>
+</body>
+</html>
